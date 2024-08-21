@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![https://github.com/ubaldoadr](./lago.png)
+
+
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+
+
+Soy un entusiasta del mundo de la tecnologia y de software profesional.
+
+He ido adquiriendo conocimientos autodidacticamente, y participe en un bootcamp de desarrollo de aplicaciones full stack java trainee
+
+
+
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-laguiapracticaprara?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@laguiapracticapara)
+
+
