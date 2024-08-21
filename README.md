@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ![https://github.com/ubaldoadr](./lago.png)
 
 
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-
 
 Soy un entusiasta del mundo de la tecnologia y de software profesional.
 
